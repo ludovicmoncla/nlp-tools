@@ -1,5 +1,6 @@
 jupyter
 spacy
+spacy_conll
 nltk
 stanza
 perdido
