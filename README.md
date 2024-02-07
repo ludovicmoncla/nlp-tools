@@ -3,9 +3,9 @@
 
 This repository contains examples of how to use NLP tools in Python such as POS-tagging and NER. The examples are based on the following libraries:
 
-* [spaCy](https://spacy.io/): [spacy.ipynb](./spacy.ipynb)
-* [Stanza](https://stanfordnlp.github.io/stanza/)[stanza.ipynb](./spacy.ipynb)
-* [Perdido](https://github.com/ludovicmoncla/perdido/tree/main)
+* [spaCy]: [spacy.ipynb](./spacy.ipynb) - [spaCy](https://spacy.io/)
+* [Stanza]: [stanza.ipynb](./spacy.ipynb) - [https://stanfordnlp.github.io/stanza/](https://stanfordnlp.github.io/stanza/)
+* [Perdido]: [perdido.ipynb](./perdido.ipynb) - [https://github.com/ludovicmoncla/perdido/](https://github.com/ludovicmoncla/perdido/)
 
 
 Sample outputs are available in the [output](./output) folder.
