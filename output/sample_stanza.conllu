@@ -1,0 +1,44 @@
+# text = ABYDE ou ABYDOS, sub.
+# sent_id = 0
+1	ABYDE	ABYDE	PROPN	_	_	0	root	_	start_char=0|end_char=5|ner=S-LOC
+2	ou	ou	CCONJ	_	_	3	cc	_	start_char=6|end_char=8|ner=O
+3	ABYDOS	ABYDOS	PROPN	_	_	1	conj	_	start_char=9|end_char=15|ner=S-LOC
+4	,	,	PUNCT	_	_	5	punct	_	start_char=15|end_char=16|ner=O
+5	sub	sub	INTJ	_	_	1	discourse	_	start_char=17|end_char=20|ner=O
+6	.	.	PUNCT	_	_	1	punct	_	start_char=20|end_char=21|ner=O
+
+# text = Ville maritime de Phrygie vis-à-vis de Sestos.Xercès joignit ces deux endroits éloignés l'un de l'autre de sept stades, par le pont qu'il jetta sur l'Hellespont.
+# sent_id = 1
+1	Ville	ville	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	start_char=22|end_char=27|ner=O
+2	maritime	maritime	ADJ	_	Gender=Fem|Number=Sing	1	amod	_	start_char=28|end_char=36|ner=O
+3	de	de	ADP	_	_	4	case	_	start_char=37|end_char=39|ner=O
+4	Phrygie	Phrygie	PROPN	_	_	1	nmod	_	start_char=40|end_char=47|ner=S-LOC
+5	vis-à-vis	vis-à-vis	ADV	_	_	1	advmod	_	start_char=48|end_char=57|ner=O
+6	de	de	ADP	_	_	7	case	_	start_char=58|end_char=60|ner=O
+7	Sestos	Sestos	PROPN	_	_	5	obl:arg	_	start_char=61|end_char=67|ner=S-LOC
+8	.Xercès	.Xercès	PROPN	_	_	7	flat:name	_	start_char=67|end_char=74|ner=O
+9	joignit	joignir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=75|end_char=82|ner=O
+10	ces	ce	DET	_	Number=Plur|PronType=Dem	12	det	_	start_char=83|end_char=86|ner=O
+11	deux	deux	NUM	_	Number=Plur	12	nummod	_	start_char=87|end_char=91|ner=O
+12	endroits	endroit	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	start_char=92|end_char=100|ner=O
+13	éloignés	éloigner	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	start_char=101|end_char=109|ner=O
+14	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	15	det	_	start_char=110|end_char=112|ner=O
+15	un	un	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	13	obl:mod	_	start_char=112|end_char=114|ner=O
+16	de	de	ADP	_	_	18	case	_	start_char=115|end_char=117|ner=O
+17	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	18	det	_	start_char=118|end_char=120|ner=O
+18	autre	autre	PRON	_	Number=Sing|Person=3|PronType=Ind	15	nmod	_	start_char=120|end_char=125|ner=O
+19	de	de	ADP	_	_	21	case	_	start_char=126|end_char=128|ner=O
+20	sept	sept	NUM	_	Number=Plur	21	nummod	_	start_char=129|end_char=133|ner=O
+21	stades	stade	NOUN	_	Gender=Masc|Number=Plur	13	obl:arg	_	start_char=134|end_char=140|ner=O
+22	,	,	PUNCT	_	_	25	punct	_	start_char=140|end_char=141|ner=O
+23	par	par	ADP	_	_	25	case	_	start_char=142|end_char=145|ner=O
+24	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	start_char=146|end_char=148|ner=O
+25	pont	pont	NOUN	_	Gender=Masc|Number=Sing	13	obl:agent	_	start_char=149|end_char=153|ner=O
+26	qu'	que	PRON	_	PronType=Rel	28	obj	_	start_char=154|end_char=157|ner=O
+27	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	start_char=157|end_char=159|ner=O
+28	jetta	jeter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	acl:relcl	_	start_char=160|end_char=165|ner=O
+29	sur	sur	ADP	_	_	31	case	_	start_char=166|end_char=169|ner=O
+30	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	31	det	_	start_char=170|end_char=172|ner=O
+31	Hellespont	Hellespont	PROPN	_	Number=Sing	28	obl:mod	_	start_char=172|end_char=182|ner=S-LOC
+32	.	.	PUNCT	_	_	9	punct	_	start_char=182|end_char=183|ner=O
+
