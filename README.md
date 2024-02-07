@@ -5,7 +5,7 @@ This repository contains examples of how to use NLP tools in Python such as POS-
 
 * [spaCy](https://spacy.io/)
 * [nltk](https://www.nltk.org/)
-* [Stanza](https://stanfordnlp.github.io/stanza/
+* [Stanza](https://stanfordnlp.github.io/stanza/)
 * [Perdido](https://github.com/ludovicmoncla/perdido/tree/main)
 
 
