@@ -4,3 +4,4 @@ spacy_conll
 nltk
 stanza
 perdido
+display-xml
