@@ -1,0 +1,37 @@
+1	ABYDE	ABYDE	PROPN	B-LOC
+2	ou	ou	CCONJ	O
+3	ABYDOS	ABYDOS	PROPN	B-LOC
+4	,		PUNCT	O
+5	sub	sub	X	O
+6	.		PUNCT	O
+7	Ville	ville	NOUN	B-LOC
+8	maritime	maritime	ADJ	I-LOC
+9	de	de	ADP	I-LOC
+10	Phrygie	Phrygie	PROPN	I-LOC
+11	vis-à-vis	vis-à-vis	ADV	O
+12	de	de	ADP	O
+13	Sestos.Xercès	SestosXercès	PROPN	B-OTHER
+14	joignit	joindre	VERB	O
+15	ces	ce	DET	O
+16	deux	deux	NUM	O
+17	endroits	endroit	NOUN	O
+18	éloignés	éloigner	VERB	O
+19	l'	le	DET	O
+20	un	un	PRON	O
+21	de	de	ADP	O
+22	l'	le	DET	O
+23	autre	autre	PRON	O
+24	de	de	ADP	O
+25	sept	sept	NUM	O
+26	stades	stade	NOUN	O
+27	,		PUNCT	O
+28	par	par	ADP	O
+29	le	le	DET	O
+30	pont	pont	NOUN	O
+31	qu'	que	PRON	O
+32	il	il	PRON	O
+33	jetta	jeter	VERB	O
+34	sur	sur	ADP	O
+35	l'	le	DET	B-LOC
+36	Hellespont	Hellespont	PROPN	I-LOC
+37	.		PUNCT	O
