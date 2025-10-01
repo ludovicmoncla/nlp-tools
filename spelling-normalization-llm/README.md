@@ -35,11 +35,13 @@ Here are some examples of input texts and their normalized outputs using differe
 ### gemma3:4b
 ![gemma3:4b](./diff/diff_arr_gemma3:4b.png)
 
-### deepseek-r1:8b
-![deepseek-r1:8b](./diff/diff_arr_deepseek-r1:8b.png)
+### mistral:7b
+![mistral:7b](./diff/diff_arr_mistral:7b.png)
 
 ### llama3.1:8b
 ![llama3.1:8b](./diff/diff_arr_llama3.1:8b.png)
 
-### mistral:7b
-![mistral:7b](./diff/diff_arr_mistral:7b.png)
+### deepseek-r1:8b
+![deepseek-r1:8b](./diff/diff_arr_deepseek-r1:8b.png)
+
+
